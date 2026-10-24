@@ -1,6 +1,6 @@
 # FTC Build Journal — Bambu Lab H2C
 
-Storage and sharing for FTC robot build files, with reference notes maintained by assistants from information Kyle supplies. The team's engineering notebook stays separate; writing entries here is optional.
+Storage and sharing for FTC robot build files, design revisions and print information. The team's engineering notebook stays separate; writing entries here is optional.
 
 
 **First build:** [Bot side panels — cut v1](builds/bot-side-panels/), a large panel split into four printable pieces. Original project, sketch, plate previews and settings inspection are recorded; physical print results are pending. FTC printing is planned to follow WRG completion.
@@ -20,11 +20,9 @@ Storage and sharing for FTC robot build files, with reference notes maintained b
 | [Shared snapshots](releases/) | Notes for optional downloadable milestones |
 | [Archive](archive/) | Superseded files retained for traceability |
 
-## Context for future sessions
+## Using the files
 
-Start with [CONTEXT.md](CONTEXT.md) and [HANDOFF.md](HANDOFF.md). Assistants keep [NOTES.md](NOTES.md) updated with useful information Kyle supplies, including design decisions, print outcomes and unresolved issues. Every note should distinguish reported information from inspected or measured evidence.
-
-Store files in the relevant build folder. Templates are optional: no daily entries or duplicate notebook work is expected. See the [notebook reference guide](notebook/README.md) when selecting stored evidence for the existing notebook.
+Store each design in its build folder with its source files, revisions and any useful print or test information. Templates are optional; no daily entries or duplicate notebook work is expected. See the [notebook reference guide](notebook/README.md) when selecting evidence for the existing notebook.
 
 ## Get shared files
 

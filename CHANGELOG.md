@@ -3,7 +3,7 @@
 ## 2026-10-24
 
 - Clarified storage-first scope, English-only documentation and optional entries/templates.
-- Added CONTEXT.md for Claude/Codex handoffs and NOTES.md for dated assistant-maintained reference information.
+- Kept assistant context and handoff notes local; public documentation focuses on shared build files.
 - Added a concise evidence mapping to Kyle's existing notebook template; no duplicate entries required.
 
 - Set up the FTC build journal and shared file library for the Bambu Lab H2C.

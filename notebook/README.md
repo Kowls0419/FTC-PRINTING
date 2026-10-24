@@ -1,6 +1,6 @@
 # Supporting the team's notebook
 
-The team's notebook and portfolio live separately. This repository mainly stores files; no one is expected to duplicate daily entries here. Assistants maintain [reference notes](../NOTES.md) from information Kyle supplies.
+The team's notebook and portfolio live separately. This repository mainly stores files; no one is expected to duplicate daily entries here. Useful design and print information can be added to the relevant build record as it becomes available.
 
 Kyle's Team36444 KC Super Bee template uses the following structure. These are destinations in the supplied template, not verified competition requirements.
 

@@ -8,3 +8,16 @@
 __pycache__/
 .scratch/
 .reflect/
+
+# Local assistant context and session files
+/AGENTS.md
+/CONTEXT.md
+/HANDOFF.md
+/NOTES.md
+/.agents/
+/.codex/
+/.claude/
+CLAUDE.local.md
+.env
+.env.*
+!.env.example
