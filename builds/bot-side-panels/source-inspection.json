@@ -1,0 +1,113 @@
+{
+  "recorded_date": "2026-10-24",
+  "source_filename": "cut.3mf",
+  "sha256": "43603e84b3447f444ed9c8f49038438eeb7988a1326da08c873be8bf6c33590e",
+  "source_modified": false,
+  "validation_scope": "Archive structure and geometry inspection only; no native GUI import, slicing or physical print test performed",
+  "plates": [
+    {
+      "plate": 1,
+      "object_id": "2",
+      "part_name": "Body1_B_B",
+      "vertices": 18610,
+      "triangles": 37794,
+      "all_edges_incidence_two": false,
+      "oriented_size_mm": [
+        223.217,
+        254.006,
+        33.46
+      ],
+      "z_min_mm": -0.0,
+      "assigned_filament_slot": 1,
+      "preview_source": "Metadata/plate_1.png"
+    },
+    {
+      "plate": 2,
+      "object_id": "4",
+      "part_name": "Body1_A_A",
+      "vertices": 17810,
+      "triangles": 36152,
+      "all_edges_incidence_two": true,
+      "oriented_size_mm": [
+        223.117,
+        254.0,
+        33.359
+      ],
+      "z_min_mm": -0.0,
+      "assigned_filament_slot": 1,
+      "preview_source": "Metadata/plate_2.png"
+    },
+    {
+      "plate": 3,
+      "object_id": "6",
+      "part_name": "Body1_A_B",
+      "vertices": 19653,
+      "triangles": 39858,
+      "all_edges_incidence_two": true,
+      "oriented_size_mm": [
+        223.117,
+        254.0,
+        33.459
+      ],
+      "z_min_mm": -0.0,
+      "assigned_filament_slot": 1,
+      "preview_source": "Metadata/plate_3.png"
+    },
+    {
+      "plate": 4,
+      "object_id": "8",
+      "part_name": "Body1_B_A",
+      "vertices": 16776,
+      "triangles": 34026,
+      "all_edges_incidence_two": false,
+      "oriented_size_mm": [
+        223.22,
+        254.032,
+        33.364
+      ],
+      "z_min_mm": -0.0,
+      "assigned_filament_slot": 1,
+      "preview_source": "Metadata/plate_4.png"
+    }
+  ],
+  "embedded_settings": {
+    "printer_model": "Bambu Lab P2S",
+    "printer_settings_id": "Bambu Lab P2S 0.6 nozzle",
+    "nozzle_diameter": [
+      "0.6"
+    ],
+    "nozzle_volume_type": [
+      "High Flow"
+    ],
+    "print_settings_id": "0.30mm Standard @BBL P2S 0.6 nozzle",
+    "filament_settings_id": [
+      "Bambu PLA Basic @BBL P2S 0.6 nozzle",
+      "Bambu PETG Basic @BBL P2S 0.6 nozzle",
+      "Bambu PETG Basic @BBL P2S 0.6 nozzle"
+    ],
+    "filament_type": [
+      "PLA",
+      "PETG",
+      "PETG"
+    ],
+    "filament_colour": [
+      "#000000",
+      "#FFFFFF",
+      "#A0A0A0"
+    ],
+    "curr_bed_type": "Textured PEI Plate",
+    "layer_height": "0.3",
+    "wall_loops": "2",
+    "top_shell_layers": "3",
+    "bottom_shell_layers": "3",
+    "sparse_infill_density": "15%",
+    "enable_support": "0"
+  },
+  "different_settings_to_system_present": false,
+  "mesh_findings": {
+    "plate_1_edges_incidence_four": 805,
+    "plate_4_edges_incidence_four": 667,
+    "exact_coordinate_welding": "Counts remain unchanged; not resolved by merging identical-position vertices",
+    "action": "Inspect and evaluate repair in Studio before printing; original preserved unchanged"
+  }
+}

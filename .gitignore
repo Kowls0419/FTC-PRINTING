@@ -1,0 +1,10 @@
+.DS_Store
+.AppleDouble
+*.gcode
+*.gcode.3mf
+*.log
+*.tmp
+*.bak
+__pycache__/
+.scratch/
+.reflect/

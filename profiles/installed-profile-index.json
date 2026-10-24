@@ -1,0 +1,1688 @@
+{
+  "inspected_date": "2026-10-22",
+  "bambu_studio_version": "02.08.02.61",
+  "source": "BambuStudio.app/Contents/Resources/profiles/BBL",
+  "purpose": "Factory preset provenance only; not importable or calibrated",
+  "presets": [
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.2 nozzle.json",
+      "name": "Bambu Lab H2C 0.2 nozzle",
+      "inherits": "Bambu Lab H2C 0.4 nozzle",
+      "sha256": "0b27156d710b9208ac67b1132cadcd98e8cf4af7cdc886c0cf873319eb2d2f45"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.4 nozzle template change_filament_gcode.json",
+      "name": "Bambu Lab H2C 0.4 nozzle template change_filament_gcode",
+      "inherits": null,
+      "sha256": "e4bd43dfb6717d9502c61981b95c89b24ae5aac6ade75799570f705f72f83625"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.4 nozzle template layer_change_gcode.json",
+      "name": "Bambu Lab H2C 0.4 nozzle template layer_change_gcode",
+      "inherits": null,
+      "sha256": "6a56c2b1bd15d945d68bd0b406ac44c36afd9008785c04f9b9ca73c9f2e95889"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.4 nozzle template machine_end_gcode.json",
+      "name": "Bambu Lab H2C 0.4 nozzle template machine_end_gcode",
+      "inherits": null,
+      "sha256": "2adc660220d954417396f6252ae989b74be13b563b5894ba3eea16ad14914d45"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.4 nozzle template machine_start_gcode.json",
+      "name": "Bambu Lab H2C 0.4 nozzle template machine_start_gcode",
+      "inherits": null,
+      "sha256": "b473d17fe7af0f2e431f8003782d0ab1f74b7a1e2ce73e265b3d7716e9ec8ce5"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.4 nozzle template time_lapse_gcode.json",
+      "name": "Bambu Lab H2C 0.4 nozzle template time_lapse_gcode",
+      "inherits": null,
+      "sha256": "6ec28b73bf076dc25146d327130dad4332319d69a1d752516f5f343a67b44c61"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.4 nozzle template wrapping_detection_gcode.json",
+      "name": "Bambu Lab H2C 0.4 nozzle template wrapping_detection_gcode",
+      "inherits": null,
+      "sha256": "ba7dfb833eedba7e9b73086a52e24f3261c95c449d9cbe5ef266378584e1a5b3"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.4 nozzle.json",
+      "name": "Bambu Lab H2C 0.4 nozzle",
+      "inherits": "fdm_bbl_3dp_002_common",
+      "sha256": "54236b5f3eedf6c8468a9c3b921ecaabc04e1e3404f3d0239829fb81c3488491"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.6 nozzle.json",
+      "name": "Bambu Lab H2C 0.6 nozzle",
+      "inherits": "Bambu Lab H2C 0.4 nozzle",
+      "sha256": "6b8c0a6fcd006527e762ad0615ae4a0eed4620b8030a483d3a1b770a83c65940"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C 0.8 nozzle.json",
+      "name": "Bambu Lab H2C 0.8 nozzle",
+      "inherits": "Bambu Lab H2C 0.4 nozzle",
+      "sha256": "6ffe6f54b3bbf5d8cd4f102abdc65aa9cf9feeaa5c141f4a072c04696e581395"
+    },
+    {
+      "category": "machine",
+      "file": "Bambu Lab H2C.json",
+      "name": "Bambu Lab H2C",
+      "inherits": null,
+      "sha256": "b3f0d2db0ff6fe5b64a60bca2b17cd88dd4388bceda8438a188a8320119e3ded"
+    },
+    {
+      "category": "process",
+      "file": "0.08mm High Quality @BBL H2C 0.2 nozzle.json",
+      "name": "0.08mm High Quality @BBL H2C 0.2 nozzle",
+      "inherits": "fdm_process_dual_0.08_nozzle_0.2",
+      "sha256": "ba9215bc16f605333cec31c0afd735d4bbf596af08fab28f2ff202e518cc298e"
+    },
+    {
+      "category": "process",
+      "file": "0.08mm High Quality @BBL H2C.json",
+      "name": "0.08mm High Quality @BBL H2C",
+      "inherits": "fdm_process_dual_0.08_nozzle_0.4",
+      "sha256": "853cb6675dcaef3b8361823db011e33d581ffbf1c0da75bac6c79b7371e843b0"
+    },
+    {
+      "category": "process",
+      "file": "0.10mm Standard @BBL H2C 0.2 nozzle.json",
+      "name": "0.10mm Standard @BBL H2C 0.2 nozzle",
+      "inherits": "fdm_process_dual_0.10_nozzle_0.2",
+      "sha256": "2f663c38f655f60f3e20433051018088e38a301620432ce5c093fdb322fc8013"
+    },
+    {
+      "category": "process",
+      "file": "0.12mm Balanced Quality @BBL H2C 0.2 nozzle.json",
+      "name": "0.12mm Balanced Quality @BBL H2C 0.2 nozzle",
+      "inherits": "fdm_process_dual_0.12_nozzle_0.2",
+      "sha256": "4758feb4ee61c23125f455d9e5647c268a0f04078f07affb47a8b08b4130c7a2"
+    },
+    {
+      "category": "process",
+      "file": "0.12mm High Quality @BBL H2C.json",
+      "name": "0.12mm High Quality @BBL H2C",
+      "inherits": "fdm_process_dual_0.12_nozzle_0.4",
+      "sha256": "f09b724cb186e86e5ff9e10aa541bf92b54cd791c6eb657148e5af24eeb3b396"
+    },
+    {
+      "category": "process",
+      "file": "0.16mm High Quality @BBL H2C.json",
+      "name": "0.16mm High Quality @BBL H2C",
+      "inherits": "fdm_process_dual_0.16_nozzle_0.4",
+      "sha256": "7a07b1829f09d15f70e9e70ba443925b1fbf639a8a578c83c94447c06aeffeb8"
+    },
+    {
+      "category": "process",
+      "file": "0.16mm Standard @BBL H2C.json",
+      "name": "0.16mm Standard @BBL H2C",
+      "inherits": "fdm_process_dual_0.16_nozzle_0.4",
+      "sha256": "21dabbcaaf6f385f651b68279336fe18acba67d10c78969274e1019c36c374f4"
+    },
+    {
+      "category": "process",
+      "file": "0.18mm Balanced Quality @BBL H2C 0.6 nozzle.json",
+      "name": "0.18mm Balanced Quality @BBL H2C 0.6 nozzle",
+      "inherits": "fdm_process_dual_0.18_nozzle_0.6",
+      "sha256": "bb156b22dae9e4d31cee337859c3cc3ca5e36bffce4e452dabc1e0c9a392c0ad"
+    },
+    {
+      "category": "process",
+      "file": "0.20mm High Quality @BBL H2C.json",
+      "name": "0.20mm High Quality @BBL H2C",
+      "inherits": "fdm_process_dual_0.20_nozzle_0.4",
+      "sha256": "5afe748edf07f3dbc2a61c72104646e3bc66021bc289e2b45822ade07a669417"
+    },
+    {
+      "category": "process",
+      "file": "0.20mm Standard @BBL H2C.json",
+      "name": "0.20mm Standard @BBL H2C",
+      "inherits": "fdm_process_dual_0.20_nozzle_0.4",
+      "sha256": "2391af6836f479fe2a3dae348abd9156f510b6f8fed787b18317740e55ea7e51"
+    },
+    {
+      "category": "process",
+      "file": "0.24mm Balanced Quality @BBL H2C 0.6 nozzle.json",
+      "name": "0.24mm Balanced Quality @BBL H2C 0.6 nozzle",
+      "inherits": "fdm_process_dual_0.24_nozzle_0.6",
+      "sha256": "73776e399f028e3990fb52bab44d3806e8aac343641d37b2f87b772b7fa584f1"
+    },
+    {
+      "category": "process",
+      "file": "0.24mm Balanced Quality @BBL H2C 0.8 nozzle.json",
+      "name": "0.24mm Balanced Quality @BBL H2C 0.8 nozzle",
+      "inherits": "fdm_process_dual_0.24_nozzle_0.8",
+      "sha256": "9e3c361cea0cedc7f28fd68f64476d40cd0b6d6d366cd69234cbef8e340a3e00"
+    },
+    {
+      "category": "process",
+      "file": "0.24mm Balanced Strength @BBL H2C 0.6 nozzle.json",
+      "name": "0.24mm Balanced Strength @BBL H2C 0.6 nozzle",
+      "inherits": "fdm_process_dual_0.24_nozzle_0.6",
+      "sha256": "31055908111fa997cc0380502f5d500749ab0a6cb63cbed62ad3af7eccaa9e38"
+    },
+    {
+      "category": "process",
+      "file": "0.24mm Standard @BBL H2C.json",
+      "name": "0.24mm Standard @BBL H2C",
+      "inherits": "fdm_process_dual_0.24_nozzle_0.4",
+      "sha256": "f985b37e4ca9fc79cb175b064ff5526cc38522d7ba2ab5b4abf87b187a100736"
+    },
+    {
+      "category": "process",
+      "file": "0.30mm Standard @BBL H2C 0.6 nozzle.json",
+      "name": "0.30mm Standard @BBL H2C 0.6 nozzle",
+      "inherits": "fdm_process_dual_0.30_nozzle_0.6",
+      "sha256": "516b0032465ba925a5f6030f0b708a9d6fa0c33944bf20a9ab2a93f4576ea172"
+    },
+    {
+      "category": "process",
+      "file": "0.32mm Balanced Quality @BBL H2C 0.8 nozzle.json",
+      "name": "0.32mm Balanced Quality @BBL H2C 0.8 nozzle",
+      "inherits": "fdm_process_dual_0.32_nozzle_0.8",
+      "sha256": "c4056763a0d07882e1c122c996f7a756028d763b8e6167e38e6f3991ba1da5b8"
+    },
+    {
+      "category": "process",
+      "file": "0.32mm Balanced Strength @BBL H2C 0.8 nozzle.json",
+      "name": "0.32mm Balanced Strength @BBL H2C 0.8 nozzle",
+      "inherits": "fdm_process_dual_0.32_nozzle_0.8",
+      "sha256": "5bd3118494c31c6816824740430bc11f115a8ede8d60d0b1e041a84a00a5504d"
+    },
+    {
+      "category": "process",
+      "file": "0.40mm Standard @BBL H2C 0.8 nozzle.json",
+      "name": "0.40mm Standard @BBL H2C 0.8 nozzle",
+      "inherits": "fdm_process_dual_0.40_nozzle_0.8",
+      "sha256": "853f830aa8ad60c05c3daea359ae620700a8d15332284d89353bc074d814817d"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ABS @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu ABS @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu ABS @base",
+      "sha256": "0394feb1442fb682d64fada35566e19fa11038c9714b88b2bb695b7483e51eba"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ABS @BBL H2C 0.6 nozzle.json",
+      "name": "Bambu ABS @BBL H2C 0.6 nozzle",
+      "inherits": "Bambu ABS @base",
+      "sha256": "1c617b09c646556bb94e2dbe7d1b7a4158c87d06a46b2def82edbcfbde0c605c"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ABS @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu ABS @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu ABS @base",
+      "sha256": "22658f371de190bcc3c29a4791a8ec1170253ec7fa88afca8f6e6537b74bcce2"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ABS @BBL H2C.json",
+      "name": "Bambu ABS @BBL H2C",
+      "inherits": "Bambu ABS @base",
+      "sha256": "a9da0e2e0f3b51fcc387c629927726f75841ce235003865a736ff313cc08bb6e"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ABS-GF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu ABS-GF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu ABS-GF @base",
+      "sha256": "5d69fdcd4c4e5b03ebd1bd80a9bdcf9499b171b80f524a9eac5ebfdfd4423ab8"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ABS-GF @BBL H2C.json",
+      "name": "Bambu ABS-GF @BBL H2C",
+      "inherits": "Bambu ABS-GF @base",
+      "sha256": "208b436988c01fb100f552b5029f6c6f388e0537a2a0af0c6dd5304f33732456"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ASA @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu ASA @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu ASA @base",
+      "sha256": "4bfe144e5f94041fec3e206c0369991a64b20992e24aece60ea6c68724d114dd"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ASA @BBL H2C 0.6 nozzle.json",
+      "name": "Bambu ASA @BBL H2C 0.6 nozzle",
+      "inherits": "Bambu ASA @base",
+      "sha256": "38949a1343ae64d7c5616e66843c33f630cf49cd448ef1b19324bbf0bad870d9"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ASA @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu ASA @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu ASA @base",
+      "sha256": "c8f24a4d7ab9b6e5a6f8021e19b0275750f38b25cb5048e61cae06ed16e23eeb"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ASA @BBL H2C.json",
+      "name": "Bambu ASA @BBL H2C",
+      "inherits": "Bambu ASA @base",
+      "sha256": "c307a9b50ef1e0fdd74745cd8eafc578ff8255e1bfed693d00c040a21b4fb748"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ASA-Aero @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu ASA-Aero @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu ASA-Aero @base",
+      "sha256": "6c5e32a28467467210bfcbbf11d9989688729694a46c4251132ac234d5f3d719"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ASA-Aero @BBL H2C.json",
+      "name": "Bambu ASA-Aero @BBL H2C",
+      "inherits": "Bambu ASA-Aero @base",
+      "sha256": "68a436d9945c6d005af650b6a7471bfee1337c5015b8359dbbd30cdee18798a6"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ASA-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu ASA-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu ASA-CF @base",
+      "sha256": "8e4b2fa033b3feca7d046f6100b33fe6c561a64195423d9e2f8affcc979de72f"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu ASA-CF @BBL H2C.json",
+      "name": "Bambu ASA-CF @BBL H2C",
+      "inherits": "Bambu ASA-CF @base",
+      "sha256": "fd4f638d0a40cd3c36a912d7394ca6ae219680fa0a47051c72f1c243cc8f12d7"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PA-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PA-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PA-CF @base",
+      "sha256": "f348e90754b00cbdc814904bb57eca6cf421d0c28203acda80adf0fef418a36e"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PA-CF @BBL H2C.json",
+      "name": "Bambu PA-CF @BBL H2C",
+      "inherits": "Bambu PA-CF @base",
+      "sha256": "69d9339b0304137335c58105df28cbc19c9ce3cb6340dac4f5d9391558c4defd"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PA6-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PA6-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PA6-CF @base",
+      "sha256": "9726e124d5677ed60c81c6dabaa2bd8b43b289c70aceea380f5ec0b88030c284"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PA6-CF @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PA6-CF @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PA6-CF @base",
+      "sha256": "389e8b0151c443f74a69a529dee2b2f18fbd470f2547444b7cad7216e764998c"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PA6-CF @BBL H2C.json",
+      "name": "Bambu PA6-CF @BBL H2C",
+      "inherits": "Bambu PA6-CF @base",
+      "sha256": "135ee8257bfaedc900331dffb16d06882fe7890260095d8069d72fd07b3c19f6"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PA6-GF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PA6-GF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PA6-GF @base",
+      "sha256": "a4a99e612d332ca984f56a2838a0012d9c73fb9a74cc17113a22375efbe1d83d"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PA6-GF @BBL H2C.json",
+      "name": "Bambu PA6-GF @BBL H2C",
+      "inherits": "Bambu PA6-GF @base",
+      "sha256": "592ebfc5b0a6e1ed9bfa6efd8e47835fe4d665f71e7b425e9ac3c3fa3cd3b9cb"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PAHT-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PAHT-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PAHT-CF @base",
+      "sha256": "01837ed06ae8c06a2858e6b46fc6b377bd77a2a8cd705282e196891ca7d5ad03"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PAHT-CF @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PAHT-CF @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PAHT-CF @base",
+      "sha256": "c7ebe99d79286911bb81fa508580ff3559fc0828140e23c6c6bd5f19ed065802"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PAHT-CF @BBL H2C.json",
+      "name": "Bambu PAHT-CF @BBL H2C",
+      "inherits": "Bambu PAHT-CF @base",
+      "sha256": "1f3c31773637a0cf9c5b5cddbbfa93618afb39e2c9f160467702950c0f9def8d"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PC @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PC @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PC @base",
+      "sha256": "e94f35ba875445305a3dcc1f46b67227e04995de652701bc08c4af58bbe578a2"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PC @BBL H2C 0.6 nozzle.json",
+      "name": "Bambu PC @BBL H2C 0.6 nozzle",
+      "inherits": "Bambu PC @base",
+      "sha256": "9be9367e69a894dcc82a867ad6036fd62a26923c00a7f779bb1d8466644c187c"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PC @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PC @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PC @base",
+      "sha256": "e59d0aa935a4adeb17cdfc940a31aa65d192b979bf1861f6f9c4266472284264"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PC @BBL H2C.json",
+      "name": "Bambu PC @BBL H2C",
+      "inherits": "Bambu PC @base",
+      "sha256": "776e68f80a23b4c9423dd1daf636588f67b7ddccc4e5bc7c35add1728843633b"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PC FR @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PC FR @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PC FR @base",
+      "sha256": "e27148cf9176444fd1da25ec16f92c7ccdf43e2a34d04831cb7e293dc1c68f27"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PC FR @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PC FR @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PC FR @base",
+      "sha256": "cbce816e16b11c2be727521b71dcc415d0ed9d6de92384be47208c136ec73c62"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PC FR @BBL H2C.json",
+      "name": "Bambu PC FR @BBL H2C",
+      "inherits": "Bambu PC FR @base",
+      "sha256": "7b995094554273144792801b758104be2f31c53b2ebba170a9c8809c2e6b6456"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PET-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PET-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PET-CF @base",
+      "sha256": "b5dbec925d2552c49834e72fc7aba30d78de42232498c688eb5e2b0bd6a20555"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PET-CF @BBL H2C.json",
+      "name": "Bambu PET-CF @BBL H2C",
+      "inherits": "Bambu PET-CF @base",
+      "sha256": "7a7a0a9318f29cfc20f85703a8c049f5a8aff4d0e229c230e8f3c7ecbe5899b4"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Basic @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PETG Basic @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PETG Basic @base",
+      "sha256": "c3a56a7cf0796ce93f68b0c4fa7ac5f668e91ed924109fba639d868e67a2220f"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Basic @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PETG Basic @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PETG Basic @base",
+      "sha256": "3dd301462d0c70ab71742fcd887be58f5542057e4b5d918d4043894b425ad445"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Basic @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PETG Basic @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PETG Basic @base",
+      "sha256": "59ab9f4e6fe83b5b93b125bd2088ce5731faa17565621f32b9ca925d25c0a568"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Basic @BBL H2C.json",
+      "name": "Bambu PETG Basic @BBL H2C",
+      "inherits": "Bambu PETG Basic @base",
+      "sha256": "be58edd2b9b7a7409a9b727c625e70c17441b568993bea6f75c2b2595122d9b5"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG HF @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PETG HF @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PETG HF @base",
+      "sha256": "7bfa29ef2e3895e03b5b5a603b6145bacb4c0483a99d040a2117085b34b5b08f"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG HF @BBL H2C 0.6 nozzle.json",
+      "name": "Bambu PETG HF @BBL H2C 0.6 nozzle",
+      "inherits": "Bambu PETG HF @base",
+      "sha256": "5fb431e4d7dd79cbca69f08d4d6bf6d1d87ed202ef522ab833b79f8517155e38"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG HF @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PETG HF @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PETG HF @base",
+      "sha256": "0a7562d0c76a887cbc9cccaeafb10534ddf444f7bbbefbdfea1cd4a7767d6ed1"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG HF @BBL H2C.json",
+      "name": "Bambu PETG HF @BBL H2C",
+      "inherits": "Bambu PETG HF @base",
+      "sha256": "8eae591202b6abe1506496d734cd97f59619eb77999065b6bf21fd4035787932"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Matte @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PETG Matte @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PETG Matte @base",
+      "sha256": "98205e4bfc9204339adfefccbb34fec6ee9e50558b701975f4bb2024f7ae06fd"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Matte @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PETG Matte @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PETG Matte @base",
+      "sha256": "e030f684657766defc9da853396608bd4c9911578ce52c91e059d6351afcf357"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Matte @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PETG Matte @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PETG Matte @base",
+      "sha256": "d32bf2461364db986fe9f596abdee55067124814443a78529b41873d3594f904"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Matte @BBL H2C.json",
+      "name": "Bambu PETG Matte @BBL H2C",
+      "inherits": "Bambu PETG Matte @base",
+      "sha256": "b5b91d90a09d68fe866a195ba67d39951b31fef37151ca13a635ad11ee26e1f9"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Translucent @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PETG Translucent @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PETG Translucent @base",
+      "sha256": "1072379b3ddc14d444276b2a5feacbeaed3c7e077590af1d4bac5aa1f8cb74cb"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Translucent @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PETG Translucent @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PETG Translucent @base",
+      "sha256": "70decbfe4ff4105bdf29e97313399720331c11aa3e44ed99280dd77afd672941"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Translucent @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PETG Translucent @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PETG Translucent @base",
+      "sha256": "5b285fb7b2a13300252b3418e8221f1d546407535cf9e6fe16017d0b21a9e4b8"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG Translucent @BBL H2C.json",
+      "name": "Bambu PETG Translucent @BBL H2C",
+      "inherits": "Bambu PETG Translucent @base",
+      "sha256": "25c2ba266b007d2a04ffe73db382a6553991f70754d29861c2a25f37139c59da"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PETG-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PETG-CF @base",
+      "sha256": "2e62fc376d4f19cc3192fa4d4ccbd2123c1a3b38b8f2a825a062fdc6746977f8"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG-CF @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PETG-CF @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PETG-CF @base",
+      "sha256": "605ea9ebb8c76578dfac11e91faac9097e6e9ce034840621dac15a35bb84b6ff"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PETG-CF @BBL H2C.json",
+      "name": "Bambu PETG-CF @BBL H2C",
+      "inherits": "Bambu PETG-CF @base",
+      "sha256": "7b8e42be0e90d94ea1d3e56ba8b6a2ae1626455f8cbcf73ff9dadf0a378703f5"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Aero @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Aero @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Aero @base",
+      "sha256": "e2f6f6225af17fec4386742ad92e5116239167f90bdcad2ff69ba44ef4debfba"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Aero @BBL H2C.json",
+      "name": "Bambu PLA Aero @BBL H2C",
+      "inherits": "Bambu PLA Aero @base",
+      "sha256": "95a11a77dd257b0b29aa5379775af7a54105477017bc3694ebd2077694a6c87e"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Basic @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Basic @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Basic @base",
+      "sha256": "32a24ffe3b23a7e49174ed5afbd21bb1bfdabc6c0ed1c0f34fdcd7e4c18ffa07"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Basic @BBL H2C 0.6 nozzle.json",
+      "name": "Bambu PLA Basic @BBL H2C 0.6 nozzle",
+      "inherits": "Bambu PLA Basic @base",
+      "sha256": "1b4a745936e8fd86db76357d60450fcd248207c7645c2a23965fd981c58fb1ca"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Basic @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PLA Basic @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PLA Basic @base",
+      "sha256": "84bed426d89aa8a19b398032de03464e5b202a59d4f92b62fec30ba53a1ee104"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Basic @BBL H2C.json",
+      "name": "Bambu PLA Basic @BBL H2C",
+      "inherits": "Bambu PLA Basic @base",
+      "sha256": "1d8092b8e2891aef858311051a0803c6bb2eae4035ba241926bc864dcc707844"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Dynamic @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Dynamic @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Dynamic @base",
+      "sha256": "517c49de560ae03057c2f205c78b373a082f318378510e2c033745437992dfed"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Dynamic @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Dynamic @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Dynamic @base",
+      "sha256": "d406233a3320f353ef481a343a3e9ebc87ecbc103241eb2e2f2b694701a2e994"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Dynamic @BBL H2C.json",
+      "name": "Bambu PLA Dynamic @BBL H2C",
+      "inherits": "Bambu PLA Dynamic @base",
+      "sha256": "9b867ffc5dbd30815076745dc7a1ec62d490a61689198f92687be7ea3592fc5a"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Galaxy @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Galaxy @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Galaxy @base",
+      "sha256": "7aa7cb03c01b2b92112c9d7fc6812cfa57161a2599f3238d55fa5ce29361b602"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Galaxy @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Galaxy @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Galaxy @base",
+      "sha256": "e52d082c6dde7c0aec7ff3b725a4ad6f50b0c24ec360b03b2741a8189834ef83"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Galaxy @BBL H2C.json",
+      "name": "Bambu PLA Galaxy @BBL H2C",
+      "inherits": "Bambu PLA Galaxy @base",
+      "sha256": "2039ecd6e476e9aacdeb3bdc380828c3601bb36cccce38c049abdd3bc29efa0d"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Glow @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Glow @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Glow @base",
+      "sha256": "7239be6ac5c387812310efd97ab7966ef7a1a77ca32efd017b22988cb791b963"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Glow @BBL H2C.json",
+      "name": "Bambu PLA Glow @BBL H2C",
+      "inherits": "Bambu PLA Glow @base",
+      "sha256": "1fb5c89ed26344ae48968eda50c556354e06bec89b48a5429cd59ec9c8004ffa"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Lite @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Lite @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Lite @base",
+      "sha256": "3436411d7b169358298431e2b56345d9b50cd73979df388443d9fbeffbd48b03"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Lite @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Lite @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Lite @base",
+      "sha256": "b3097673b83004dd2aa9a4fac9328ee1307cf8e89190d5543fd5de57a3fdcd58"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Lite @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PLA Lite @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PLA Lite @base",
+      "sha256": "f86318bb89aa8ea51f44d42d6e4f0d420ae237d3930db2306b5fee486b147026"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Lite @BBL H2C.json",
+      "name": "Bambu PLA Lite @BBL H2C",
+      "inherits": "Bambu PLA Lite @base",
+      "sha256": "3eb698d847228255954ac35d81652a8a2f3e3ed6fcd08d16adba70c7822836b0"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Marble @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Marble @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Marble @base",
+      "sha256": "2f1610514c47aa3c194665b361c8be6f8838be9309fe84633400cea77130c28f"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Marble @BBL H2C.json",
+      "name": "Bambu PLA Marble @BBL H2C",
+      "inherits": "Bambu PLA Marble @base",
+      "sha256": "577516e5e09a903005b7ad92a32303b6dcc39728e7f69e97c48f17931e71edea"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Matte @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Matte @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Matte @base",
+      "sha256": "7a96fb5ae362ab00ae69c2f0d027af13f4601d44b475f66fe18a4cbb868e9724"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Matte @BBL H2C 0.6 nozzle.json",
+      "name": "Bambu PLA Matte @BBL H2C 0.6 nozzle",
+      "inherits": "Bambu PLA Matte @base",
+      "sha256": "80b4a535e4e4735bbfdab1e150c18a8c5e345afddb844342f4f172dc05d61065"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Matte @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PLA Matte @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PLA Matte @base",
+      "sha256": "62ca11c6617cfa5b380b51eeaffb8c35b5fd5c02b102968fdae069d14948051d"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Matte @BBL H2C.json",
+      "name": "Bambu PLA Matte @BBL H2C",
+      "inherits": "Bambu PLA Matte @base",
+      "sha256": "27618bb7f20325e857e6425f0f427bcd85c9df442d986317ea48d90f25fc747f"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Metal @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Metal @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Metal @base",
+      "sha256": "5a45992705ad514af4965748112105f5b2e3b9e5e51a530115787ded0dcd9624"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Metal @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Metal @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Metal @base",
+      "sha256": "11596f5ecb1163e6743349ced585c4827a4e4a355f06f6e9943ee5ba2c0d04d9"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Metal @BBL H2C.json",
+      "name": "Bambu PLA Metal @BBL H2C",
+      "inherits": "Bambu PLA Metal @base",
+      "sha256": "3ca4ba9c3f71a73141b161fc3744751dfb4f0d0df55ae896ac4ea6ef755e1ffe"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Pure @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Pure @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Pure @base",
+      "sha256": "70fb9d0e00e5530ecf6acec8b3703463f2b2a708a8c0598e08f20c603b5398ee"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Pure @BBL H2C 0.6 nozzle.json",
+      "name": "Bambu PLA Pure @BBL H2C 0.6 nozzle",
+      "inherits": "Bambu PLA Pure @base",
+      "sha256": "0e415fb56e20ef1049392dc7203eaa71d5456eb1e9c349c549844249f6e90157"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Pure @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PLA Pure @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PLA Pure @base",
+      "sha256": "e437c1d87cc4d52810a52950502246034ad96a06c739e07b30e23e7e9226e0ed"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Pure @BBL H2C.json",
+      "name": "Bambu PLA Pure @BBL H2C",
+      "inherits": "Bambu PLA Pure @base",
+      "sha256": "3dd3a2e0eb8ce154ffe7844abc087750241c0e622da9446058fae4bb3a7cd1c4"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Silk @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Silk @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Silk @base",
+      "sha256": "2b7484ef117ec3429ba21f8b0e8bf54663d3a8b6c994f07a619c2a55407c9a24"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Silk @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Silk @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Silk @base",
+      "sha256": "86424d425135cc3aee0fce4d8af26b082c6318f4f88abec39653df8665f5884d"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Silk @BBL H2C.json",
+      "name": "Bambu PLA Silk @BBL H2C",
+      "inherits": "Bambu PLA Silk @base",
+      "sha256": "34315183e50f36c334f74c1fd959364752fd09edbd33bf7c564af3859e6a547d"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Silk+ @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Silk+ @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Silk+ @base",
+      "sha256": "21f8aa25b4a0c8d9a6b2d47826a142452380c60bdc451d99a8015e7b06b55fec"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Silk+ @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Silk+ @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Silk+ @base",
+      "sha256": "d6bb2a4770401834952806855e3ae68f02df1b6973a0a03d72853b0578564439"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Silk+ @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PLA Silk+ @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PLA Silk+ @base",
+      "sha256": "a21e2f4845da4826ccfe8f3bb39dcb41b5e1313070cbd568ef7b22c4482f34e1"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Silk+ @BBL H2C.json",
+      "name": "Bambu PLA Silk+ @BBL H2C",
+      "inherits": "Bambu PLA Silk+ @base",
+      "sha256": "62ce48412aa2eb8549f2cc7dbcff200618ffb80bc1dff3807f0976b28897f77d"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Sparkle @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Sparkle @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Sparkle @base",
+      "sha256": "a097b0e8af9dbcbacbb90370113577bfc7c0e2d4513c4ef4b5cd91959bf28913"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Sparkle @BBL H2C.json",
+      "name": "Bambu PLA Sparkle @BBL H2C",
+      "inherits": "Bambu PLA Sparkle @base",
+      "sha256": "f4158143b78a1ee9b5cae16e7268645d6197597e1714694d7242e00613e9e692"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Tough @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Tough @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Tough @base",
+      "sha256": "9270d4dc98e8d36d820592bd0c85c434b44ecdce97522c8fff7c0b6187d61015"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Tough @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Tough @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Tough @base",
+      "sha256": "adb98ca4be3da76729730f3b6d06c1318dd8168b6cf2b94b091d88cf36dcff4c"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Tough @BBL H2C.json",
+      "name": "Bambu PLA Tough @BBL H2C",
+      "inherits": "Bambu PLA Tough @base",
+      "sha256": "ec2da2f78205d2f832cea0ab2944e45d516e8e828de015d9f951eb3c1d33408f"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Tough+ @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Tough+ @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Tough+ @base",
+      "sha256": "a26e834826ea092ccf7f56dc8120c3eb08e4b8e87c5e5cfe927f75cda143307a"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Tough+ @BBL H2C 0.6 nozzle.json",
+      "name": "Bambu PLA Tough+ @BBL H2C 0.6 nozzle",
+      "inherits": "Bambu PLA Tough+ @base",
+      "sha256": "8a56e875491308badc2a3a50514e6b0da45ecca0c6998ca53e110900a74eb7dd"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Tough+ @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PLA Tough+ @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PLA Tough+ @base",
+      "sha256": "3029383cfca741509f2aad2c4c189780520093c15c400d8fc6e7f8e423d3a1e9"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Tough+ @BBL H2C.json",
+      "name": "Bambu PLA Tough+ @BBL H2C",
+      "inherits": "Bambu PLA Tough+ @base",
+      "sha256": "0d05e4d5fc98b87e5ba7249363107614486fc7ffde57eea1cb09d57e7a451b6e"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Translucent @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu PLA Translucent @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu PLA Translucent @base",
+      "sha256": "99993632f7be909f75aa1e04d9e9c0f6fc10ad044e163e9b8beb95fdf8f101a4"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Translucent @BBL H2C 0.6 nozzle.json",
+      "name": "Bambu PLA Translucent @BBL H2C 0.6 nozzle",
+      "inherits": "Bambu PLA Translucent @base",
+      "sha256": "3b51ac031b29d6d9a4a6ed96667c6cc8c44ac018559b7056d5733f1cb80f8c3b"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Translucent @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PLA Translucent @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PLA Translucent @base",
+      "sha256": "8e7e83eb4e4c0f512629438cadbf9bc7a41c0d4399bec9f84313299af381c916"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Translucent @BBL H2C.json",
+      "name": "Bambu PLA Translucent @BBL H2C",
+      "inherits": "Bambu PLA Translucent @base",
+      "sha256": "1da60668ef320d8157d0bd0e358760aea100fdd7d742510d86ea8bcdcb97de69"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Wood @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA Wood @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA Wood @base",
+      "sha256": "3d30f7175e023a0b4f3fec127bb45f75fac4ee5d01ed55627d2ad2cd60a0ce10"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA Wood @BBL H2C.json",
+      "name": "Bambu PLA Wood @BBL H2C",
+      "inherits": "Bambu PLA Wood @base",
+      "sha256": "4ae5999ff6f0283801b103839b0c26cde5d3d30d0e4577df617cfbb3c95d5f72"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PLA-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PLA-CF @base",
+      "sha256": "53a6da56578e047184048567a9b4bb5275f0ed82d9916ad1532c1bf45f1b86ca"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA-CF @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PLA-CF @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PLA-CF @base",
+      "sha256": "1d9f48b3a8cad421a82eb70d0385e1d119099e08194ed997d1d63b9563115a32"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PLA-CF @BBL H2C.json",
+      "name": "Bambu PLA-CF @BBL H2C",
+      "inherits": "Bambu PLA-CF @base",
+      "sha256": "d034657fb28ee06dc060860a23616af5bfcfdaa66861cee6d0446b19a4fed123"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PPA-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PPA-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PPA-CF @base",
+      "sha256": "ef468de7c1561d192ba4d192f712c3b966022e570954718ee4c20b0bae7bb6af"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PPA-CF @BBL H2C.json",
+      "name": "Bambu PPA-CF @BBL H2C",
+      "inherits": "Bambu PPA-CF @base",
+      "sha256": "51baf7d9c861cc9ea26955539a2ec5d87e8bedde142815c99e562a7c0e1478ee"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PPS-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PPS-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PPS-CF @base",
+      "sha256": "196036da8b27dbb2f430bb8d7bdc5a05d4afae6d298e2111142d5325a48543df"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PPS-CF @BBL H2C.json",
+      "name": "Bambu PPS-CF @BBL H2C",
+      "inherits": "Bambu PPS-CF @base",
+      "sha256": "7e877a31bee5e7e0bdb316ea5118c892e557edc2559385ff1ac6a25b5e43bcf2"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PVA @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu PVA @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu PVA @base",
+      "sha256": "5b8f29ed9c41d06e659c170e4954e6cd8ded34194ae197d4e088b3ef8f0c8a98"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PVA @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu PVA @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu PVA @base",
+      "sha256": "ebf3674f7a3e4a469d61b7dc14f05a9b704926b3fd424f8ad04d4af850d8806a"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu PVA @BBL H2C.json",
+      "name": "Bambu PVA @BBL H2C",
+      "inherits": "Bambu PVA @base",
+      "sha256": "da0ad190c069917ade38ec73c20d08a8f42e91128a4c705b0c3271b8dab21280"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PA PET @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu Support For PA/PET @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu Support For PA/PET @base",
+      "sha256": "751e58e768ff6b8866b5d3d37199a5111c950f91a43a52e840c868cffa8bd04c"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PA PET @BBL H2C.json",
+      "name": "Bambu Support For PA/PET @BBL H2C",
+      "inherits": "Bambu Support For PA/PET @base",
+      "sha256": "fb4402a67bc5a5b64eadfe571aad65bb57a142b59117ff92fb7e01a75f01327a"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PLA @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu Support For PLA @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu Support For PLA @base",
+      "sha256": "d0d87bf50daf3e67a2065f8eb8c311218cdfd20134f2761c078cbeccdb8b9bbb"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PLA @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu Support For PLA @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu Support For PLA @base",
+      "sha256": "51f6b5723dedbca5178d8946fc79a3ec69a0ec7a96aa2645159bf07d64487161"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PLA @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu Support For PLA @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu Support For PLA @base",
+      "sha256": "a554c14b63650f843bd4aac35416ab46da7ee908ae9bc8f7cee260a76e8c96d4"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PLA @BBL H2C.json",
+      "name": "Bambu Support For PLA @BBL H2C",
+      "inherits": "Bambu Support For PLA @base",
+      "sha256": "38a010976bb963e8fb2f3323f2f3963440712ec5b61f0cf2b94ed94d140b8ece"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PLA-PETG @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu Support For PLA/PETG @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu Support For PLA/PETG @base",
+      "sha256": "3f897a3d74806d07a7f7749703f3f2102cfd13ee2e4cf9c04ab9533b1e5e586f"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PLA-PETG @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu Support For PLA/PETG @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu Support For PLA/PETG @base",
+      "sha256": "0bd6bc7880d21af10c7532b6219c308eeb6f9b47ca51173efe6ec32fa807d218"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PLA-PETG @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu Support For PLA/PETG @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu Support For PLA/PETG @base",
+      "sha256": "6083b0138d7f920c0cc6918dbf4594fc5ef19caa70ff563715062aa21253ee1e"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support For PLA-PETG @BBL H2C.json",
+      "name": "Bambu Support For PLA/PETG @BBL H2C",
+      "inherits": "Bambu Support For PLA/PETG @base",
+      "sha256": "d8e7698412a58b127781191c5ef1122133348baaf4c2441571e537791c6e51cd"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support G @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu Support G @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu Support G @base",
+      "sha256": "6656bfd6e1d4327a5cfa6db8067e71331a61b0f2a624fb965746c96a64ea5c97"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support G @BBL H2C.json",
+      "name": "Bambu Support G @BBL H2C",
+      "inherits": "Bambu Support G @base",
+      "sha256": "0c378b6f0815234dd4252876def1f1e894ad8e9874cbe3e3b3443118e61a53c8"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support W @BBL H2C 0.2 nozzle.json",
+      "name": "Bambu Support W @BBL H2C 0.2 nozzle",
+      "inherits": "Bambu Support W @base",
+      "sha256": "4e146d11f77cbc96534de91551575dabf27831cec4a71a5038305d116acc84e7"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support W @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu Support W @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu Support W @base",
+      "sha256": "ddbe671cb286a6aa61955977d1b7751cb41ed7390b4b252a5d4e7b57d1f54373"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support W @BBL H2C.json",
+      "name": "Bambu Support W @BBL H2C",
+      "inherits": "Bambu Support W @base",
+      "sha256": "0ecb8cc8ffbab6495ead3aa50f24bc21713331f67da50ae25302bb89e0190d7d"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support for ABS @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu Support for ABS @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu Support for ABS @base",
+      "sha256": "c95e25005d81d0f581ebdd36040cc646ea444f669558c0d351ca848da7b61004"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support for ABS @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu Support for ABS @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu Support for ABS @base",
+      "sha256": "30ba91a8499dc0a8b754f02f8b8276d16de9ba9c4befb89d39c097927c259df9"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu Support for ABS @BBL H2C.json",
+      "name": "Bambu Support for ABS @BBL H2C",
+      "inherits": "Bambu Support for ABS @base",
+      "sha256": "9b45ccefdd02ff2a776b142ccfe177f6b3bd8f760872d9250055681f21dcec05"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU 85A @BBL H2C.json",
+      "name": "Bambu TPU 85A @BBL H2C",
+      "inherits": "Bambu TPU 85A @base",
+      "sha256": "917831324963e57d378111936a8a0c06d0bdee0e0880f228f4f89602614b6cba"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU 90A @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu TPU 90A @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu TPU 90A @base",
+      "sha256": "863d3afef591abad42566eee2b6998f50c6f178298fb0effc44bbf6ee3f8dbcd"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU 90A @BBL H2C.json",
+      "name": "Bambu TPU 90A @BBL H2C",
+      "inherits": "Bambu TPU 90A @base",
+      "sha256": "a59270a9229fb15c8a3342f17052f761ff1be44df2004cafe42f424ce6e42358"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU 95A @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu TPU 95A @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu TPU 95A @base",
+      "sha256": "2d92cd2133957472fa463c698194c471a821b7ced9e800d5e8e0e7aff1661315"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU 95A @BBL H2C.json",
+      "name": "Bambu TPU 95A @BBL H2C",
+      "inherits": "Bambu TPU 95A @base",
+      "sha256": "3a8acdb4e75c36352f277dfd300e8054f9657c09af4435a320ed8b182b3b17ea"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU 95A HF @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu TPU 95A HF @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu TPU 95A HF @base",
+      "sha256": "27e19552e85c2e7e530f7929a18cf3097676683cad555137d94763545e2c02ef"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU 95A HF @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu TPU 95A HF @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu TPU 95A HF @base",
+      "sha256": "a3298af6e0e83a83b7e4524ba40f75155c7e12a9282195c19831034d8bf1132f"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU 95A HF @BBL H2C.json",
+      "name": "Bambu TPU 95A HF @BBL H2C",
+      "inherits": "Bambu TPU 95A HF @base",
+      "sha256": "5c8a79892002ac48b39be464ebe02e5fe1b7fe4d5bc691caad3178aae09738f6"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU for AMS @BBL H2C 0.4 nozzle.json",
+      "name": "Bambu TPU for AMS @BBL H2C 0.4 nozzle",
+      "inherits": "Bambu TPU for AMS @base",
+      "sha256": "8871bd11175905b4f7e5f4c70cf9fdd7a274523c7d74ff10c9613b4b68485d3c"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU for AMS @BBL H2C 0.8 nozzle.json",
+      "name": "Bambu TPU for AMS @BBL H2C 0.8 nozzle",
+      "inherits": "Bambu TPU for AMS @base",
+      "sha256": "24998a6ca96192cee8411f56b10be210efd094765d17f7d7891a1121e6ad40d2"
+    },
+    {
+      "category": "filament",
+      "file": "Bambu TPU for AMS @BBL H2C.json",
+      "name": "Bambu TPU for AMS @BBL H2C",
+      "inherits": "Bambu TPU for AMS @base",
+      "sha256": "d0fd32c11a5ba8908f15d63199f9e332fcfd689742638777e71490e8ff90e30e"
+    },
+    {
+      "category": "filament",
+      "file": "Generic ABS @BBL H2C 0.2 nozzle.json",
+      "name": "Generic ABS @BBL H2C 0.2 nozzle",
+      "inherits": "Generic ABS @base",
+      "sha256": "cc5f3c431679c4faa73318f2c1884f0c6f5e9e17e81bc31d3defc02cbc29b881"
+    },
+    {
+      "category": "filament",
+      "file": "Generic ABS @BBL H2C 0.4 nozzle.json",
+      "name": "Generic ABS @BBL H2C 0.4 nozzle",
+      "inherits": "Generic ABS @base",
+      "sha256": "03122c33b5c0f53bf6b43d307bd98f7f20f7ff9d3ace7a9c0a0b2cedf00b2788"
+    },
+    {
+      "category": "filament",
+      "file": "Generic ABS @BBL H2C.json",
+      "name": "Generic ABS @BBL H2C",
+      "inherits": "Generic ABS @base",
+      "sha256": "7b5cb26911e63c6af1605562291c3caefc2ebc07a4416509653796144f33bc61"
+    },
+    {
+      "category": "filament",
+      "file": "Generic ASA @BBL H2C 0.2 nozzle.json",
+      "name": "Generic ASA @BBL H2C 0.2 nozzle",
+      "inherits": "Generic ASA @base",
+      "sha256": "82104a97f2962a8605b83c7f73e268f1d8173087c87e86375a272461cec99537"
+    },
+    {
+      "category": "filament",
+      "file": "Generic ASA @BBL H2C 0.4 nozzle.json",
+      "name": "Generic ASA @BBL H2C 0.4 nozzle",
+      "inherits": "Generic ASA @base",
+      "sha256": "97186471b30615fb4364e11e529d8a14f538d2662b3133f98a1f016e4e6f95d6"
+    },
+    {
+      "category": "filament",
+      "file": "Generic ASA @BBL H2C.json",
+      "name": "Generic ASA @BBL H2C",
+      "inherits": "Generic ASA @base",
+      "sha256": "59d3240f7e5a3c1d683cb3abd3bd197a594fc13e1c0283219de4542657643eac"
+    },
+    {
+      "category": "filament",
+      "file": "Generic BVOH @BBL H2C 0.4 nozzle.json",
+      "name": "Generic BVOH @BBL H2C 0.4 nozzle",
+      "inherits": "Generic BVOH @base",
+      "sha256": "ae15f0cd27755297b16023bc428bb2d962c3e6f682415dc2554997cf0b6578a9"
+    },
+    {
+      "category": "filament",
+      "file": "Generic BVOH @BBL H2C.json",
+      "name": "Generic BVOH @BBL H2C",
+      "inherits": "Generic BVOH @base",
+      "sha256": "87dbd2f6d6f0bec951ae2d66a1947dec30be50dc390c6800b394e39b4ccbe4a3"
+    },
+    {
+      "category": "filament",
+      "file": "Generic EVA @BBL H2C 0.4 nozzle.json",
+      "name": "Generic EVA @BBL H2C 0.4 nozzle",
+      "inherits": "Generic EVA @base",
+      "sha256": "45c9fdec8a8cd59bb8d903229d5c971adb4325a7711707bd68cecc8f841ab7e5"
+    },
+    {
+      "category": "filament",
+      "file": "Generic EVA @BBL H2C.json",
+      "name": "Generic EVA @BBL H2C",
+      "inherits": "Generic EVA @base",
+      "sha256": "a6d5d624ffff23a0e82886bc6dce5f01eb176b1ddadf8eb1ad5066259bd9faf9"
+    },
+    {
+      "category": "filament",
+      "file": "Generic HIPS @BBL H2C 0.2 nozzle.json",
+      "name": "Generic HIPS @BBL H2C 0.2 nozzle",
+      "inherits": "Generic HIPS @base",
+      "sha256": "9cc796ed1920f504d99615f650618b86c476f640ed4973c19a69daa4fe4fc691"
+    },
+    {
+      "category": "filament",
+      "file": "Generic HIPS @BBL H2C 0.4 nozzle.json",
+      "name": "Generic HIPS @BBL H2C 0.4 nozzle",
+      "inherits": "Generic HIPS @base",
+      "sha256": "7a33c5a7e6b90310d4ec1db6b4eed909075a1d362c31d9dfbbfb7e5c6f1e868b"
+    },
+    {
+      "category": "filament",
+      "file": "Generic HIPS @BBL H2C.json",
+      "name": "Generic HIPS @BBL H2C",
+      "inherits": "Generic HIPS @base",
+      "sha256": "e565f3e8fb18c92df566f6b0a46c6e6117a33fe57fa61d9dab69184643c13333"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PA @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PA @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PA @base",
+      "sha256": "0dc3a1c27514dacfed8d99d1b6e7bf22f4c3d2423c23e17463100d9f9e97f05a"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PA @BBL H2C.json",
+      "name": "Generic PA @BBL H2C",
+      "inherits": "Generic PA @base",
+      "sha256": "7b5578ec809dfbbc5546e5ff4da6a6f7c671a3aad89815aaf3cb5b4a4f62a5a8"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PA-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PA-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PA-CF",
+      "sha256": "24a045bf8c14183f46dbacee5cad8557313f0f2b88a6057cfb563a656d73365a"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PA-CF @BBL H2C.json",
+      "name": "Generic PA-CF @BBL H2C",
+      "inherits": "Generic PA-CF",
+      "sha256": "03555ba60a7af733913c5acde8c4fc8e93c14a0d31ef8353de6297d58b1995d2"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PC @BBL H2C 0.2 nozzle.json",
+      "name": "Generic PC @BBL H2C 0.2 nozzle",
+      "inherits": "Generic PC @base",
+      "sha256": "2005446ae403565f91fba31672937afaa4f2174b187c3d2d00e4f2e106d3e0f4"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PC @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PC @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PC @base",
+      "sha256": "84b39c50dfbc00146255077dae8ff59b1d2bbf269a234664694b9ad2df5ded08"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PC @BBL H2C.json",
+      "name": "Generic PC @BBL H2C",
+      "inherits": "Generic PC @base",
+      "sha256": "db77f764161b4aaa00a78c7bf0008dd0714f0239de9eb34ff3d9fe7230930e27"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PCTG @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PCTG @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PCTG @base",
+      "sha256": "231532b0ff13aa965bf8306da04135ee65100d4a9313c3efbd162c99b575a00f"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PCTG @BBL H2C.json",
+      "name": "Generic PCTG @BBL H2C",
+      "inherits": "Generic PCTG @base",
+      "sha256": "a03c48f9be996e7a52edce644653336ae2277683fcf56ed4cf0fee90a0bd9f12"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PE @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PE @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PE @base",
+      "sha256": "2f46de11fdec8d6ae7a3b1495ab22c8361c8cb3de50df6bcbfd348802f2e0156"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PE @BBL H2C.json",
+      "name": "Generic PE @BBL H2C",
+      "inherits": "Generic PE @base",
+      "sha256": "b31952c35a310e493e9ec7d9b84286cb09bc61c69aadfbe20bc28ed9102cf69f"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PE-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PE-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PE-CF @base",
+      "sha256": "fda96dd38487cea271dd624d7fa7a07ae40e6653987e16561748ba92e3fbdb1b"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PE-CF @BBL H2C.json",
+      "name": "Generic PE-CF @BBL H2C",
+      "inherits": "Generic PE-CF @base",
+      "sha256": "00f0edae5ac1f3120c2d14241f2efeede8e7604654eefdc203aadc7b7f102792"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PETG @BBL H2C 0.2 nozzle.json",
+      "name": "Generic PETG @BBL H2C 0.2 nozzle",
+      "inherits": "Generic PETG @base",
+      "sha256": "7f3b21fd97f5d6716d18dd6d1f456fcc99cfcda65f14e0d5ad8239b83f1b7048"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PETG @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PETG @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PETG @base",
+      "sha256": "9a1817088112f7262e24cb152625632b3c5a461e5bf2701e435fcc64b53ad121"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PETG @BBL H2C.json",
+      "name": "Generic PETG @BBL H2C",
+      "inherits": "Generic PETG @base",
+      "sha256": "df6a763bb2a9c17dfbce959cd9b6964a60b5936338775d8d1c8ee09454baf52d"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PETG HF @BBL H2C 0.2 nozzle.json",
+      "name": "Generic PETG HF @BBL H2C 0.2 nozzle",
+      "inherits": "Generic PETG HF @base",
+      "sha256": "0c5c893864305aed8c5c2d8a1bf50d7736552f5eab09fb9dbb5a8ac6216b0d3e"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PETG HF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PETG HF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PETG HF @base",
+      "sha256": "8ff0270c2574896d4647ed5d18cdd8754cc6df2d1384fe0496d239137a861d8b"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PETG HF @BBL H2C.json",
+      "name": "Generic PETG HF @BBL H2C",
+      "inherits": "Generic PETG HF @base",
+      "sha256": "4bbc24257da4326174a67d1a2f55faab4af060ee333b73734cd8592b5ff98fc9"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PETG-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PETG-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PETG-CF @base",
+      "sha256": "cb6c6152c801f15bc6bae90048bfb90d6914e593b617cfa6d93bc331e9e49c0e"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PETG-CF @BBL H2C.json",
+      "name": "Generic PETG-CF @BBL H2C",
+      "inherits": "Generic PETG-CF @base",
+      "sha256": "0294218f085e99a0ce2daf0b97837aa2641bf1c43755d6ac306e1c368aed4b11"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PHA @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PHA @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PHA @base",
+      "sha256": "7f127b4b76734f08ef10018e0ee91a7a23cdc4b9f7f83010b4b28251a11f97d9"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PHA @BBL H2C.json",
+      "name": "Generic PHA @BBL H2C",
+      "inherits": "Generic PHA @base",
+      "sha256": "2348252821dce89c279de4bdd51359b9d0ca8a5358a85b640abfd517d1969849"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA @BBL H2C 0.2 nozzle.json",
+      "name": "Generic PLA @BBL H2C 0.2 nozzle",
+      "inherits": "Generic PLA @base",
+      "sha256": "751927efb371b1dcbbea6e4f476f385c898f3327aa9d2f1035ff56d8d13dee70"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PLA @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PLA @base",
+      "sha256": "9820436b88337603bc38fb2ec5cd6707dc12cba8be3f4dc05d393b1965bac389"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA @BBL H2C.json",
+      "name": "Generic PLA @BBL H2C",
+      "inherits": "Generic PLA @base",
+      "sha256": "beff29a27e7db2ee5e275e3b0c22a548fdc0c3f49459215a45c8203e052ab1b8"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA High Speed @BBL H2C 0.2 nozzle.json",
+      "name": "Generic PLA High Speed @BBL H2C 0.2 nozzle",
+      "inherits": "Generic PLA High Speed @base",
+      "sha256": "a4fa0f9393ceed05da4418b4378c7496ebc7baf1d3eb14b7f12750da78583bc2"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA High Speed @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PLA High Speed @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PLA High Speed @base",
+      "sha256": "0f366a4b9914f96985ee0d7c26af844ce759529fda5b6312aac6667def032c65"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA High Speed @BBL H2C.json",
+      "name": "Generic PLA High Speed @BBL H2C",
+      "inherits": "Generic PLA High Speed @base",
+      "sha256": "e219dce811e07303434c7064459395baa294d0b7a2cf84631a6e474ef9c018e6"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA Silk @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PLA Silk @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PLA Silk @base",
+      "sha256": "f0f4f23d74c3fc4ce47a642d1bf58678487c97761800bc3930f327e4c01b45db"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA Silk @BBL H2C.json",
+      "name": "Generic PLA Silk @BBL H2C",
+      "inherits": "Generic PLA Silk @base",
+      "sha256": "2fca38dfb64c986d71ea63e178d6a2e838f40297858cc715db90a66f5ca181ea"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PLA-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PLA-CF @base",
+      "sha256": "1ee044c6fcb36a9bb52465053f8fbfb0bd1deec52f90e23028f1f2ec36cac23a"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PLA-CF @BBL H2C.json",
+      "name": "Generic PLA-CF @BBL H2C",
+      "inherits": "Generic PLA-CF @base",
+      "sha256": "934db3f2b7bc124e7cc0b05687a986f257f151097731e38efa174228f300bdf2"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PP @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PP @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PP @base",
+      "sha256": "363c9c9c81d2fd88ad8ee3f78de268bdfa86200166ba2b4d01e62632cd5d3dc0"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PP @BBL H2C.json",
+      "name": "Generic PP @BBL H2C",
+      "inherits": "Generic PP @base",
+      "sha256": "43064b5980bacaf7dce0cd5db8a02f31578c4beaa752105454fa5d279c8bcbf6"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PP-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PP-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PP-CF @base",
+      "sha256": "4fd6be0f5a138251570eb48df95f3700b4eaf25fd4d10e6dd48860e7ffa58671"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PP-CF @BBL H2C.json",
+      "name": "Generic PP-CF @BBL H2C",
+      "inherits": "Generic PP-CF @base",
+      "sha256": "f36b4f6f6758d8fc99d7bafec00703b6733befbd2a8c15d3ff7df1584dab783a"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PP-GF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PP-GF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PP-GF @base",
+      "sha256": "59fa5ddf3c8505499ff6e1b98ebe87a02610eb882360ab4a0066b456714f149f"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PP-GF @BBL H2C.json",
+      "name": "Generic PP-GF @BBL H2C",
+      "inherits": "Generic PP-GF @base",
+      "sha256": "2e66e9209cf1774a92854a7bd8ca1bb146fec252c86d35cebee335d342c1fd7f"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PPA-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PPA-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PPA-CF @base",
+      "sha256": "8b36e16ddffa7333947eae4196f7ff3601bda96dd5b76f249043342862a5efa5"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PPA-CF @BBL H2C.json",
+      "name": "Generic PPA-CF @BBL H2C",
+      "inherits": "Generic PPA-CF @base",
+      "sha256": "2a7d1ee606867b2f32127110e32d639f55b5371eed388e4181ccaddd934b3347"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PPA-GF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PPA-GF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PPA-GF @base",
+      "sha256": "410562d09f0f7de742ed7b64f368bfb80f19b5282d78427ed08d8214043870e8"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PPA-GF @BBL H2C.json",
+      "name": "Generic PPA-GF @BBL H2C",
+      "inherits": "Generic PPA-GF @base",
+      "sha256": "0e17bcf09efda5e8faae6338c74226840f76398f84efaa86ad48923d9ee01f58"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PPS @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PPS @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PPS @base",
+      "sha256": "8111eb0161705424fbf2ecc7678c449d919651705be1f79f81208c48bd4aff7a"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PPS @BBL H2C.json",
+      "name": "Generic PPS @BBL H2C",
+      "inherits": "Generic PPS @base",
+      "sha256": "9f90f91a925d182671d9da37142a4e7d1e48f4cd3e530990b0e5f3d2c8447cad"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PPS-CF @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PPS-CF @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PPS-CF @base",
+      "sha256": "78399a26a85bb603c97b76826abcfca7b6f413332ea92b0979a5270e6b411f9b"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PPS-CF @BBL H2C.json",
+      "name": "Generic PPS-CF @BBL H2C",
+      "inherits": "Generic PPS-CF @base",
+      "sha256": "f51430b00c36463964adc26e92f774588a94027cebcbb4ff6c569aa3479eae92"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PVA @BBL H2C 0.2 nozzle.json",
+      "name": "Generic PVA @BBL H2C 0.2 nozzle",
+      "inherits": "Generic PVA @base",
+      "sha256": "721c2779c8a9766b3d462473e6f3b9f5dd5324457f2fcac2526fd17b82a1c2b0"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PVA @BBL H2C 0.4 nozzle.json",
+      "name": "Generic PVA @BBL H2C 0.4 nozzle",
+      "inherits": "Generic PVA @base",
+      "sha256": "ce678c80c591398d4ecfd9234405d1c08a43242ededbd4c77650fd281ce159ae"
+    },
+    {
+      "category": "filament",
+      "file": "Generic PVA @BBL H2C.json",
+      "name": "Generic PVA @BBL H2C",
+      "inherits": "Generic PVA @base",
+      "sha256": "ceb46bc8b4837a1d758f9e09be20a6f047da9eac3fe0662e068ca9ffdd6b0367"
+    },
+    {
+      "category": "filament",
+      "file": "Generic TPU @BBL H2C 0.4 nozzle.json",
+      "name": "Generic TPU @BBL H2C 0.4 nozzle",
+      "inherits": "Generic TPU @base",
+      "sha256": "83064d24f19b9c4c5ecdc6f49c2b7ae7c7540dbb9bcac5f61ecb4766065dc06b"
+    },
+    {
+      "category": "filament",
+      "file": "Generic TPU @BBL H2C.json",
+      "name": "Generic TPU @BBL H2C",
+      "inherits": "Generic TPU @base",
+      "sha256": "baded73c1e50db89a9738712b0789fffad992c38f4b3f78b7265847805fbae60"
+    },
+    {
+      "category": "filament",
+      "file": "Generic TPU for AMS @BBL H2C 0.4 nozzle.json",
+      "name": "Generic TPU for AMS @BBL H2C 0.4 nozzle",
+      "inherits": "Generic TPU for AMS @base",
+      "sha256": "aec003ef3678e703900fd213bf89fb0afc9f2711fe01933964376d270cea2a6a"
+    },
+    {
+      "category": "filament",
+      "file": "Generic TPU for AMS @BBL H2C.json",
+      "name": "Generic TPU for AMS @BBL H2C",
+      "inherits": "Generic TPU for AMS @base",
+      "sha256": "93fc3a97e70516d2adbe2f692eed1d6b479e923149e4202226b3ed620d6b753b"
+    }
+  ]
+}
