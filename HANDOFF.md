@@ -15,8 +15,8 @@ Create a public FTC build journal and file library focused on the Bambu Lab H2C:
 ## Next
 1. Verify actual H2C installation and select side-panel hotend/plate/colour; intended material is Bambu PETG Basic.
 2. Inspect source plate1/4 non-manifold edges in Studio before creating a separate H2C print revision.
-2. After WRG finishes, record FTC print attempts, tests and resulting design decisions.
-3. Link useful evidence to notebook entries as the team develops them.
+3. After WRG finishes, record FTC print attempts, tests and resulting design decisions.
+4. Link useful evidence to notebook entries as the team develops them.
 
 ## Gotchas
 - First FTC design is archived: builds/bot-side-panels/source/cut.3mf. No calibrated team H2C profile or physical print result is recorded.
@@ -43,3 +43,10 @@ Create a public FTC build journal and file library focused on the Bambu Lab H2C:
 - **Hardware evidence:** Kyle reports official kit8hotends: right4×0.4 +0.2+0.6 induction; left2×0.4standard; expected preinstalled0.4each. Intended filament Bambu PETG Basic; colour/plate/chosenhotend/mapping unconfirmed. No high-flow assumption.
 - **Mesh evidence:** source plate1 has805edges with4incidenttriangles, plate4has667; exact-coordinate welding leaves counts unchanged. Plates2/3all2incidentfaces. Originalsourceunchanged; no claim of printability or successful repair.
 - **Publication scope:** public FTC buildjournal and firstsource/sketch authorised by Kyle; commit/push requested earlier. No live printing or source conversion performed.
+
+### Codex: English storage notes and cross-agent context (2026-10-24)
+- **Status:** documentation complete; Kyle requested commit/push on 2026-10-24.
+- **User preferences:** storage-first repository; English only; no expectation of user-written entries. Assistants retain dated reference notes from Kyle and maintain context for Claude/Codex handoffs.
+- **Files changed:** CONTEXT.md, NOTES.md, AGENTS.md, README.md, notebook/README.md, builds/README.md, print-history/README.md, CHANGELOG.md and this handoff.
+- **Checks:** supplied notebook Markdown structure inspected; current docs checked for local links and CJK text; source3mf/sketch unchanged. Notebook rules not independently verified or promoted to requirements.
+- **Next:** use CONTEXT and NOTES on future sessions; record outcomes Kyle supplies. Publication authorised for this update; verify remote main after push.

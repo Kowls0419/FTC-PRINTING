@@ -1,11 +1,17 @@
-# Engineering notebook evidence index
+# Supporting the team's notebook
 
-Use this index to find the reasoning and evidence behind the robot's development. Preserve original dated build and print records; link them here rather than rewriting their history.
+The team's notebook and portfolio live separately. This repository mainly stores files; no one is expected to duplicate daily entries here. Assistants maintain [reference notes](../NOTES.md) from information Kyle supplies.
 
-First design evidence is indexed below; no notebook entry or physical test is recorded.
+Kyle's Team36444 KC Super Bee template uses the following structure. These are destinations in the supplied template, not verified competition requirements.
 
-| Date | Build / revision | Problem or question | Alternatives / design decision | Test evidence and learning | Notebook entry / page |
-|---|---|---|---|---|---|
-| 2026-10-24 | [Side panels / cut-v1](../builds/bot-side-panels/) | Large side panel needs smaller printable sections | Supplied four-piece split; alternatives and joint rationale unrecorded | Original sketch and saved plate previews; testing pending | Not yet recorded |
+| Stored evidence | Possible destination in the existing template |
+|---|---|
+| Original CAD, sketch and labelled assembly views | Robot overview or relevant hardware section |
+| Revision files and reasons for changes | Mechanism iterations; PartC iteration record |
+| Options and known tradeoffs | PartC decision matrix; mechanism options compared |
+| Print settings, mass, dimensions and measured results | Mechanism math/data; PartC test log |
+| Problems, failures and lessons Kyle reports | Daily-entry reflection; lesson learned and applied |
 
-Useful evidence includes sketches and CAD, constraints, reasons for choosing a design, failed iterations, test methods, measured results and the next decision. Credit contributors and external designs. Keep estimates labelled and avoid backfilling invented results. Team members can select and explain this material in their engineering notebook.
+The [side-panel files](../builds/bot-side-panels/) currently provide a sketch, original four-piece project, saved previews and structural inspection. They do not yet provide physical test evidence or a validated H2C print profile. No notebook page or entry number is assigned.
+
+Existing build and print templates are optional reference aids. Use them only if useful; keeping a file does not require filling out a template.

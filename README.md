@@ -1,8 +1,7 @@
 # FTC Build Journal — Bambu Lab H2C
 
-Build files, design iterations and print histories for FTC robotics. A shared record of what we built, why we changed it and what we learned, with evidence that can support the engineering notebook.
+Storage and sharing for FTC robot build files, with reference notes maintained by assistants from information Kyle supplies. The team's engineering notebook stays separate; writing entries here is optional.
 
-FTC 機器人製作紀錄：分享設計檔、列印歷程、測試結果與改版原因，作為工程筆記的參考資料。
 
 **First build:** [Bot side panels — cut v1](builds/bot-side-panels/), a large panel split into four printable pieces. Original project, sketch, plate previews and settings inspection are recorded; physical print results are pending. FTC printing is planned to follow WRG completion.
 
@@ -21,14 +20,11 @@ FTC 機器人製作紀錄：分享設計檔、列印歷程、測試結果與改�
 | [Shared snapshots](releases/) | Notes for optional downloadable milestones |
 | [Archive](archive/) | Superseded files retained for traceability |
 
-## Record a build
+## Context for future sessions
 
-1. Create `builds/<build-name>/` using the [build template](builds/TEMPLATE.md). Keep design sources and revisions with the build.
-2. Record the problem, constraints, alternatives and reason for the chosen design. Link each printed revision to its exact source and `.3mf`.
-3. Add a dated [print record](print-history/TEMPLATE.md) for each attempt, including failures. Record actual hardware/material, settings, sliced estimates, measured outcomes and photos.
-4. Link testing and the resulting design decision in the build record. Add useful evidence to the [notebook index](notebook/README.md).
+Start with [CONTEXT.md](CONTEXT.md) and [HANDOFF.md](HANDOFF.md). Assistants keep [NOTES.md](NOTES.md) updated with useful information Kyle supplies, including design decisions, print outcomes and unresolved issues. Every note should distinguish reported information from inspected or measured evidence.
 
-Distinguish observed results from assumptions and sliced estimates. Keep failed iterations: they explain how the design improved. This journal supports notebook writing; it does not by itself establish competition compliance.
+Store files in the relevant build folder. Templates are optional: no daily entries or duplicate notebook work is expected. See the [notebook reference guide](notebook/README.md) when selecting stored evidence for the existing notebook.
 
 ## Get shared files
 

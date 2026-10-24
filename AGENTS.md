@@ -1,9 +1,11 @@
-# FTC build journal instructions
+# FTC storage and handoff instructions
 
-Read HANDOFF.md, README.md and the relevant build/print records before work. This workspace shares FTC build files, design decisions and print histories for engineering notebook reference. Do not impose a mass-production workflow.
+Read HANDOFF.md, CONTEXT.md, README.md and relevant NOTES.md/build records before acting. This repository mainly stores FTC build files; no required meeting entries or mass-printing workflow. All documentation must be English.
 
-Use `bambu-3mf` for every .3mf edit and `reflect` for printing work. Preserve source files and back up projects. Use actual H2C hardware profiles, validate embedded identities/overrides/coupled extruder arrays, then inspect the exact final project in Studio.
+Maintain CONTEXT.md for stable preferences, NOTES.md for dated facts/decisions Kyle supplies, and HANDOFF.md for task state and cross-agent continuity. Record whether evidence is Kyle-reported, file-inspected, physically measured/tested or proposed. Preserve unknowns; never invent results, meeting attendance, hours, notebook entries or page references. Templates are optional and Kyle need not fill them out.
 
-Record each meaningful iteration and print attempt with date, exact file revision, settings, observed results and next decision. Preserve failures and distinguish slicer estimates from measured results. Link evidence useful for the notebook; never invent tests or notebook entries.
+For multi-step work, update handoff after meaningful steps. Append your own Claude/Codex entry under Delegated with status, files changed, commands/checks, findings and next checks. Preserve the other agent's history. Check actual files/git state before assuming a prior step completed.
 
-FTC printing is planned after WRG finishes; do not assert completion without confirmation. Do not send jobs to a live printer without Kyle's explicit instruction. Do not commit or push unless Kyle asks; omit co-author/generated-by trailers. Share only authorised designs and information.
+Use bambu-3mf for every .3mf edit and reflect for printing work. Preserve original source and back up edited projects. Use the actual target H2C hardware profile; validate embedded identities, override lists and coupled arrays before native import/slicing. Record user-reported print outcomes when supplied, including failures, without requiring a full entry.
+
+FTC printing is planned after WRG finishes; do not claim completion without confirmation. Do not send print jobs without Kyle's explicit instruction. Commit/push only when Kyle asks; initial-publication authorisation is not standing permission for future commits. Omit co-author/generated-by trailers. Share only authorised designs and information.

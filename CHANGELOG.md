@@ -2,6 +2,10 @@
 
 ## 2026-10-24
 
+- Clarified storage-first scope, English-only documentation and optional entries/templates.
+- Added CONTEXT.md for Claude/Codex handoffs and NOTES.md for dated assistant-maintained reference information.
+- Added a concise evidence mapping to Kyle's existing notebook template; no duplicate entries required.
+
 - Set up the FTC build journal and shared file library for the Bambu Lab H2C.
 - Added build iteration and print attempt templates, plus an engineering notebook evidence index.
 - Added H2C setup/profile references and source, WIP, tested project and archive areas.
