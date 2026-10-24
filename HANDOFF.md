@@ -10,7 +10,7 @@ Create a public FTC build journal and file library focused on the Bambu Lab H2C:
 - Kyle clarified this is build logging/sharing, not mass printing. Updated the structure before initial publication.
 
 ## In progress
-- Initial journal and first build complete locally; commit/push and remote verification are the final publication steps.
+- Initial publication complete: public Kowls0419/FTC-PRINTING, main branch; initial commit ec5b0c7 and uploaded source verified via GitHub API.
 
 ## Next
 1. Verify actual H2C installation and select side-panel hotend/plate/colour; intended material is Bambu PETG Basic.
@@ -26,7 +26,7 @@ Create a public FTC build journal and file library focused on the Bambu Lab H2C:
 ## Delegated
 
 ### Codex: FTC build journal setup (2026-10-24)
-- **Status:** 27-file journal and first-build record complete; all local Markdown links/JSON validated, source byte-identical; initial publication follows.
+- **Status:** Complete: 27-file journal and first-build record published; all local Markdown links/JSON validated, source byte-identical, remote commit/source verified.
 - **Files changed:** root docs, builds/ and print-history/ templates, notebook/ index, H2C/, WIP/, Original STLs/, profiles/, releases/, archive/ docs and .gitignore.
 - **Commands run:** read WRG context and bambu-3mf/reflect skills; checked GitHub repo/Pages state; inspected local factory H2C JSON; generated scaffold; validated Markdown links/JSON; installed with byte comparison; git init and GitHub repository creation.
 - **Findings:** FTC is a build journal and shared file library, not a production tracker. Official preset availability does not confirm installed hardware. No 3mf edits or printing performed.
